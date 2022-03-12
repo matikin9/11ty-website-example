@@ -1,0 +1,23 @@
+{
+  "name": "11ty-website-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matikin9/11ty-website-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matikin9/11ty-website-example/issues"
+  },
+  "homepage": "https://github.com/matikin9/11ty-website-example#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
